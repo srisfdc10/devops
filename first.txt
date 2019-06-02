@@ -1,2 +1,0 @@
- hi this is my first file in linux
-/bin/bash: wq: command not found
